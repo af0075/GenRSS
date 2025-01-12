@@ -1,4 +1,4 @@
-# Compare the number of iterations it takes for a player to guess the seceret as the number of players shares changes.
+# Compare the number of iterations it takes for a player to guess the seceret as the number of players changes.
 import random
 import numpy as np
 import networkx as nx
